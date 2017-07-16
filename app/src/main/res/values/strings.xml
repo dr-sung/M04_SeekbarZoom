@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M04_SeekbarZoom</string>
+    <string name="imageview_description">launch image</string>
+    <string name="seekbar_lable">Volumn Control</string>
+</resources>
